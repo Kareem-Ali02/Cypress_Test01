@@ -1,0 +1,16 @@
+{
+  "name": "test-1",
+  "version": "1.0.0",
+  "description": "test automation using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kareem",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.2.0",
+    "cypress": "^14.2.0",
+    "mocha": "^11.1.0"
+  }
+}
